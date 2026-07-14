@@ -1,0 +1,7 @@
+{
+  "name": " AURA: The 3D AI Avatar",
+  "description": "An immersive chat experience where users can interact with a futuristic 3D AI avatar using both voice and text. AURA listens and responds with a synthesized voice, creating a dynamic conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
